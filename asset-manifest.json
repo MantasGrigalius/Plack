@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Plack/static/css/main.b4946e42.chunk.css",
-    "main.js": "/Plack/static/js/main.25cbb028.chunk.js",
-    "main.js.map": "/Plack/static/js/main.25cbb028.chunk.js.map",
+    "main.css": "/Plack/static/css/main.803f90dd.chunk.css",
+    "main.js": "/Plack/static/js/main.05e4c944.chunk.js",
+    "main.js.map": "/Plack/static/js/main.05e4c944.chunk.js.map",
     "runtime-main.js": "/Plack/static/js/runtime-main.5a486fba.js",
     "runtime-main.js.map": "/Plack/static/js/runtime-main.5a486fba.js.map",
-    "static/css/2.8492db6c.chunk.css": "/Plack/static/css/2.8492db6c.chunk.css",
-    "static/js/2.1521fa74.chunk.js": "/Plack/static/js/2.1521fa74.chunk.js",
-    "static/js/2.1521fa74.chunk.js.map": "/Plack/static/js/2.1521fa74.chunk.js.map",
+    "static/css/2.da8ab40c.chunk.css": "/Plack/static/css/2.da8ab40c.chunk.css",
+    "static/js/2.1b5f9dc1.chunk.js": "/Plack/static/js/2.1b5f9dc1.chunk.js",
+    "static/js/2.1b5f9dc1.chunk.js.map": "/Plack/static/js/2.1b5f9dc1.chunk.js.map",
     "index.html": "/Plack/index.html",
-    "precache-manifest.96bdd4abda98a2afe7c87f86e13a5b25.js": "/Plack/precache-manifest.96bdd4abda98a2afe7c87f86e13a5b25.js",
+    "precache-manifest.f97fbd306e4f8e373fba39468b421293.js": "/Plack/precache-manifest.f97fbd306e4f8e373fba39468b421293.js",
     "service-worker.js": "/Plack/service-worker.js",
-    "static/css/2.8492db6c.chunk.css.map": "/Plack/static/css/2.8492db6c.chunk.css.map",
-    "static/css/main.b4946e42.chunk.css.map": "/Plack/static/css/main.b4946e42.chunk.css.map",
-    "static/js/2.1521fa74.chunk.js.LICENSE.txt": "/Plack/static/js/2.1521fa74.chunk.js.LICENSE.txt",
+    "static/css/2.da8ab40c.chunk.css.map": "/Plack/static/css/2.da8ab40c.chunk.css.map",
+    "static/css/main.803f90dd.chunk.css.map": "/Plack/static/css/main.803f90dd.chunk.css.map",
+    "static/js/2.1b5f9dc1.chunk.js.LICENSE.txt": "/Plack/static/js/2.1b5f9dc1.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/Plack/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.5a486fba.js",
-    "static/css/2.8492db6c.chunk.css",
-    "static/js/2.1521fa74.chunk.js",
-    "static/css/main.b4946e42.chunk.css",
-    "static/js/main.25cbb028.chunk.js"
+    "static/css/2.da8ab40c.chunk.css",
+    "static/js/2.1b5f9dc1.chunk.js",
+    "static/css/main.803f90dd.chunk.css",
+    "static/js/main.05e4c944.chunk.js"
   ]
 }

@@ -23,6 +23,19 @@ object-assign
  * @license  MIT
  */
 
+/*!
+ * mime-db
+ * Copyright(c) 2014 Jonathan Ong
+ * MIT Licensed
+ */
+
+/*!
+ * mime-types
+ * Copyright(c) 2014 Jonathan Ong
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
