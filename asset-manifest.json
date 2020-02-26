@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Plack/static/css/main.803f90dd.chunk.css",
-    "main.js": "/Plack/static/js/main.05e4c944.chunk.js",
-    "main.js.map": "/Plack/static/js/main.05e4c944.chunk.js.map",
+    "main.js": "/Plack/static/js/main.bd58657d.chunk.js",
+    "main.js.map": "/Plack/static/js/main.bd58657d.chunk.js.map",
     "runtime-main.js": "/Plack/static/js/runtime-main.5a486fba.js",
     "runtime-main.js.map": "/Plack/static/js/runtime-main.5a486fba.js.map",
     "static/css/2.da8ab40c.chunk.css": "/Plack/static/css/2.da8ab40c.chunk.css",
     "static/js/2.1b5f9dc1.chunk.js": "/Plack/static/js/2.1b5f9dc1.chunk.js",
     "static/js/2.1b5f9dc1.chunk.js.map": "/Plack/static/js/2.1b5f9dc1.chunk.js.map",
     "index.html": "/Plack/index.html",
-    "precache-manifest.f97fbd306e4f8e373fba39468b421293.js": "/Plack/precache-manifest.f97fbd306e4f8e373fba39468b421293.js",
+    "precache-manifest.331d3460ba0b44764c730fac1926e295.js": "/Plack/precache-manifest.331d3460ba0b44764c730fac1926e295.js",
     "service-worker.js": "/Plack/service-worker.js",
     "static/css/2.da8ab40c.chunk.css.map": "/Plack/static/css/2.da8ab40c.chunk.css.map",
     "static/css/main.803f90dd.chunk.css.map": "/Plack/static/css/main.803f90dd.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.da8ab40c.chunk.css",
     "static/js/2.1b5f9dc1.chunk.js",
     "static/css/main.803f90dd.chunk.css",
-    "static/js/main.05e4c944.chunk.js"
+    "static/js/main.bd58657d.chunk.js"
   ]
 }
