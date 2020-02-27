@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68bd83bab633a31af7a35df801cfe430",
+    "revision": "d1267186d85c182e391b8d6ee0ad0730",
     "url": "/Plack/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Plack/static/css/2.8492db6c.chunk.css"
   },
   {
-    "revision": "f865d92cfc954750cc28",
+    "revision": "e30decf31eba8885846a",
     "url": "/Plack/static/css/main.55cdb697.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Plack/static/js/2.b996081f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f865d92cfc954750cc28",
-    "url": "/Plack/static/js/main.7e2ce177.chunk.js"
+    "revision": "e30decf31eba8885846a",
+    "url": "/Plack/static/js/main.fb16f498.chunk.js"
   },
   {
     "revision": "5c66aedaf05f9cf758f8",
