@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba3d7409f5fc9c5e7f0366900e7bf262",
+    "revision": "e6dbe550a5a213ffc3ec2717682da60f",
     "url": "/Plack/index.html"
   },
   {
-    "revision": "3e0d8bc51682868cea40",
+    "revision": "0ae891bf90fb28863341",
     "url": "/Plack/static/css/2.8492db6c.chunk.css"
   },
   {
-    "revision": "df5e2d494a153699c034",
+    "revision": "6c42cb57866c94e536d0",
     "url": "/Plack/static/css/main.55cdb697.chunk.css"
   },
   {
-    "revision": "3e0d8bc51682868cea40",
-    "url": "/Plack/static/js/2.b996081f.chunk.js"
+    "revision": "0ae891bf90fb28863341",
+    "url": "/Plack/static/js/2.77cf0fc9.chunk.js"
   },
   {
     "revision": "d9393a88a337a00ce00cf4c6fc1d1521",
-    "url": "/Plack/static/js/2.b996081f.chunk.js.LICENSE.txt"
+    "url": "/Plack/static/js/2.77cf0fc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df5e2d494a153699c034",
-    "url": "/Plack/static/js/main.b605950b.chunk.js"
+    "revision": "6c42cb57866c94e536d0",
+    "url": "/Plack/static/js/main.117b034a.chunk.js"
   },
   {
     "revision": "5c66aedaf05f9cf758f8",
